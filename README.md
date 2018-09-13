@@ -49,7 +49,7 @@ import requests
 import json
  
  
-# Aman's post time
+# Cube post time
  
 AFTER = 1353233754
  
